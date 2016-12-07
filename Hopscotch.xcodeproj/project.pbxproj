@@ -17,6 +17,7 @@
 		4666D5031DF760D3001F11C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4666D5011DF760D3001F11C2 /* LaunchScreen.storyboard */; };
 		4666D50E1DF760D5001F11C2 /* HopscotchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4666D50D1DF760D5001F11C2 /* HopscotchTests.swift */; };
 		4666D5191DF760D5001F11C2 /* HopscotchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4666D5181DF760D5001F11C2 /* HopscotchUITests.swift */; };
+		4666D5271DF7898B001F11C2 /* LogoScopic.png in Resources */ = {isa = PBXBuildFile; fileRef = 4666D5261DF7898B001F11C2 /* LogoScopic.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4666D5141DF760D5001F11C2 /* HopscotchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HopscotchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4666D5181DF760D5001F11C2 /* HopscotchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HopscotchUITests.swift; sourceTree = "<group>"; };
 		4666D51A1DF760D5001F11C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4666D5261DF7898B001F11C2 /* LogoScopic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LogoScopic.png; path = ../../LogoScopic.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				4666D4FC1DF760D2001F11C2 /* Main.storyboard */,
 				4666D4FF1DF760D2001F11C2 /* Assets.xcassets */,
 				4666D5011DF760D3001F11C2 /* LaunchScreen.storyboard */,
+				4666D5261DF7898B001F11C2 /* LogoScopic.png */,
 				4666D5041DF760D3001F11C2 /* Info.plist */,
 			);
 			path = Hopscotch;
@@ -247,6 +250,7 @@
 				4666D4FE1DF760D2001F11C2 /* Main.storyboard in Resources */,
 				4666D4F51DF760D1001F11C2 /* GameScene.sks in Resources */,
 				4666D5001DF760D2001F11C2 /* Assets.xcassets in Resources */,
+				4666D5271DF7898B001F11C2 /* LogoScopic.png in Resources */,
 				4666D5031DF760D3001F11C2 /* LaunchScreen.storyboard in Resources */,
 				4666D4F71DF760D2001F11C2 /* Actions.sks in Resources */,
 			);
